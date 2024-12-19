@@ -28,6 +28,9 @@ namespace Course {
             int n = int.Parse(Console.ReadLine());
 
             for (int i = 1; i <= n; i++) {
+                
+                Console.WriteLine($"Enter #{i} contract data: ");
+
                 Console.Write("Date (DD/MM/YY): ");
                 DateTime date = DateTime.Parse(Console.ReadLine());
 

@@ -66,3 +66,4 @@ d:\OneDrive - GRUPO BIT\Dados\Ricardo_Dados\Udemy\Programacao-Orientada-a-Objeto
 d:\OneDrive - GRUPO BIT\Dados\Ricardo_Dados\Udemy\Programacao-Orientada-a-Objetos-CSharp\CourseWP\Course\obj\Debug\net8.0\Program.pdb
 d:\OneDrive - GRUPO BIT\Dados\Ricardo_Dados\Udemy\Programacao-Orientada-a-Objetos-CSharp\CourseWP\Course\obj\Debug\net8.0\Program.genruntimeconfig.cache
 d:\OneDrive - GRUPO BIT\Dados\Ricardo_Dados\Udemy\Programacao-Orientada-a-Objetos-CSharp\CourseWP\Course\obj\Debug\net8.0\ref\Program.dll
+d:\OneDrive - GRUPO BIT\Dados\Ricardo_Dados\Udemy\Programacao-Orientada-a-Objetos-CSharp\CourseWP\Course\obj\Debug\net8.0\Program.sourcelink.json
